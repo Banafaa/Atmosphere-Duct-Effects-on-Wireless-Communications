@@ -1,4 +1,4 @@
-%% Wireless Propagation Visuals | WP#001
+%% Wireless Propagation | WP#001
 % Beyond the Horizon: When the Atmosphere Becomes a Waveguide
 %
 % Author:
