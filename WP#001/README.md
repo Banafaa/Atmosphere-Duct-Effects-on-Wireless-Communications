@@ -1,6 +1,6 @@
-# WPV-001 | Beyond the Horizon: When the Atmosphere Becomes a Waveguide
+# WP-001 | Beyond the Horizon: When the Atmosphere Becomes a Waveguide
 
-**Wireless Propagation Visuals**
+**Wireless Propagation (WP)**
 
 ## Overview
 
