@@ -18,11 +18,11 @@ This phenomenon is known as **tropospheric ducting**.
 
 ## Standard Propagation
 
-![Standard atmospheric propagation](Figures/WP#001_figure01.png) 
+![Standard atmospheric propagation](Figures/WP%23001_figure01.png)
 
 ## Tropospheric Ducting
 
-![Tropospheric ducting animation](Figures/WP#001_figure02.gif)
+![Tropospheric ducting animation](Figures/WP%23001_figure02.gif)
 
 ## MATLAB Simulation
 
