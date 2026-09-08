@@ -4,6 +4,12 @@
 visualizations of atmospheric radio propagation and its impact on wireless
 communication systems.
 
+## Repository Status
+
+🚧 **Active Project** — The Wireless Propagation (WP) series is continuously
+expanding. New posts, simulations, figures, and supporting materials are
+added progressively.
+
 ---
 
 ## About This Repository
