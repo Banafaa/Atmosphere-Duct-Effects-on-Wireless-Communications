@@ -24,6 +24,14 @@ The simulation illustrates the transition from conventional propagation
 near the radio horizon to beyond-line-of-sight propagation when an
 atmospheric duct is present.
 
+## Standard Propagation
+
+![Standard atmospheric propagation](figures/WP#001_figure01.png)
+
+## Tropospheric Ducting
+
+![Tropospheric ducting animation](figures/WP#001_figure02.gif)
+
 ## LinkedIn Post
 
 [WP#001] Beyond the Horizon: When the Atmosphere Becomes a Waveguide 
