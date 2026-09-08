@@ -15,7 +15,7 @@ simulations and visualizations.
 
 | ID | Topic | Simulation |
 |---|---|---|
-| WPV-001 | Beyond the Horizon: When the Atmosphere Becomes a Waveguide | MATLAB |
+| WP#001 | Beyond the Horizon: When the Atmosphere Becomes a Waveguide | MATLAB |
 
 ## Topics
 
