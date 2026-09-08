@@ -26,11 +26,11 @@ atmospheric duct is present.
 
 ## Standard Propagation
 
-![Standard atmospheric propagation](figures/WP#001_figure01.png)
+![Standard atmospheric propagation](WP#001/WP#001_figure01.png)
 
 ## Tropospheric Ducting
 
-![Tropospheric ducting animation](figures/WP#001_figure02.gif)
+![Tropospheric ducting animation](WP#001/WP#001_figure02.gif)
 
 ## LinkedIn Post
 
