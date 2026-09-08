@@ -5,7 +5,7 @@ Reproducible MATLAB and Python visualizations for atmospheric propagation, wirel
 **Visual explanations of atmospheric propagation, wireless channels,
 and AI-driven communication systems.**
 
-This repository accompanies the **Wireless Propagation Visuals (WPV)**
+This repository accompanies the **Wireless Propagation (WP)**
 technical content series.
 
 Each post combines scientific explanation with reproducible MATLAB/Python
