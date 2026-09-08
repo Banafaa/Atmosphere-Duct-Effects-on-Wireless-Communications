@@ -1,4 +1,4 @@
-%% Wireless Propagation Visuals | WP#002
+%% Wireless Propagation| WP#002
 % The Physics of Duct Formation:
 % How Weather Creates Radio Waveguides
 %
