@@ -1,36 +1,79 @@
-# Atmosphere-Duct-Effects-on-Wireless-Communications
-Reproducible MATLAB and Python visualizations for atmospheric propagation, wireless channels, and AI-driven communication systems.
-# Wireless Propagation Visuals
+# Atmosphere Duct Effects on Wireless Communications
 
-**Visual explanations of atmospheric propagation, wireless channels,
-and AI-driven communication systems.**
+**Wireless Propagation (WP)** — Scientific explanations, simulations, and
+visualizations of atmospheric radio propagation and its impact on wireless
+communication systems.
 
-This repository accompanies the **Wireless Propagation (WP)**
-technical content series.
+---
 
-Each post combines scientific explanation with reproducible MATLAB/Python
-simulations and visualizations.
+## About This Repository
 
-## Posts
+This repository accompanies the **Wireless Propagation (WP)** technical
+content series, developed as part of the **Research Content Management
+System (RCMS)**.
 
-| ID | Topic | Simulation |
+The series translates research in atmospheric radio propagation into
+concise technical explanations supported by reproducible simulations and
+scientific visualizations.
+
+Each WP post focuses on a specific propagation concept and, where
+applicable, provides the corresponding MATLAB/Python implementation,
+figures, animations, and supporting references.
+
+The objective is to connect:
+
+**Atmospheric Physics → Propagation Mechanisms → Electromagnetic Fields → Wireless System Performance**
+
+---
+
+## Wireless Propagation (WP) Series
+
+The posts are organized progressively, with each topic building on concepts
+introduced in previous posts.
+
+| ID | Topic | Resources |
 |---|---|---|
-| WP#001 | Beyond the Horizon: When the Atmosphere Becomes a Waveguide | MATLAB |
+| **WP#001** | Beyond the Horizon: When the Atmosphere Becomes a Waveguide | MATLAB + Animation |
+| **WP#002** | The Physics of Duct Formation: How Weather Creates Radio Waveguides | MATLAB + Data + Visualization |
+| **WP#003** | Duct Characterization: Strength, Thickness, and Height | Technical Post |
+| **WP#004** | Operating Frequency and Tropospheric Ducting: Why the Same Duct Does Not Affect Every Signal Equally | MATLAB + Visualization |
+| **WP#005** | Same Atmospheric Duct, Different Frequencies: What Actually Happens to the Electromagnetic Field? | MATLAB + PE Animation |
 
-## Topics
+> Additional posts and simulations will be added as the series develops.
 
-The series explores:
+---
+
+## Research Topics
+
+The series explores topics including:
 
 - Atmospheric radio propagation
 - Tropospheric ducting
 - Atmospheric refractivity
-- Modified refractivity
-- Propagation modelling
+- Modified refractivity (M-profile)
+- Temperature and humidity inversions
+- Duct strength, thickness, and trapping height
+- Frequency-dependent duct propagation
+- Surface, elevated, and evaporation ducts
+- Beyond-line-of-sight propagation
+- Parabolic Equation (PE) modelling
+- Ray-based propagation modelling
 - Radar and maritime communications
-- Beyond-line-of-sight communications
-- AI-driven duct detection and prediction
+- Remote interference
+- Atmospheric measurements and sounding data
+- Machine learning for duct detection and classification
+- AI-driven duct prediction
+- Atmospheric effects on next-generation wireless systems
+---
 
 ## Author
 
-**Mohammed Banafaa**  
-King Fahd University of Petroleum and Minerals (KFUPM)
+**Mohammed Banafaa, Ph.D.**  
+Ph.D. in Electrical Engineering | Wireless Communications  
+KFUPM Alumnus | Researcher, IRC-CSS  
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=AKs0fJAAAAAJ&view_op=list_works&sortby=pubdate) | [LinkedIn](https://www.linkedin.com/in/mohammed-banafaa-866124179/)
+
+Research interests include wireless communications, atmospheric radio
+propagation, tropospheric ducting, channel modelling, and machine learning
+for wireless systems.
