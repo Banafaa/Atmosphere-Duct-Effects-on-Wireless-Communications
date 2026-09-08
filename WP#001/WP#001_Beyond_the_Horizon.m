@@ -1,8 +1,26 @@
-%% tropo_duct_animation.m
-% Wireless Propagation Visuals #001 - Tropospheric Ducting
-% Generates an animated GIF showing a standard ray (blocked at the radio
-% horizon/escaping) versus a ducted ray (guided within the tropospheric 
-% duct to a receiver far beyond line of sight).
+%% Wireless Propagation Visuals | WP#001
+% Beyond the Horizon: When the Atmosphere Becomes a Waveguide
+%
+% Author:
+% Mohammed Banafaa
+%
+% Series:
+% Wireless Propagation (WP)
+%
+% Description:
+% This simulation illustrates radio-wave propagation under
+% standard atmospheric conditions and tropospheric ducting.
+%
+% The ducting scenario demonstrates how atmospheric
+% refractivity can guide radio waves beyond the conventional
+% radio horizon.
+%
+% Reference:
+% M. Banafaa and A. H. Muqaibel,
+% "Tropospheric Ducting: A Comprehensive Review and
+% Machine Learning-Based Classification Advancements,"
+% IEEE Access, 2025. DOI: 10.1109/ACCESS.2025.3537160
+%%------------------------------------------
 clear; clc; close all;
 
 %% ---- Geometry / parameters ------------------------------------------
