@@ -18,7 +18,7 @@ This phenomenon is known as **tropospheric ducting**.
 
 ## Standard Propagation
 
-![Standard atmospheric propagation](Figures/WP#001_figure01.png)
+![Standard atmospheric propagation](Figures/WP#001_figure01.png) 
 
 ## Tropospheric Ducting
 
