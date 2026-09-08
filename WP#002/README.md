@@ -1,7 +1,7 @@
 # [WP#002] The Physics of Duct Formation:
 ## How Weather Creates Radio Waveguides
 
-**Wireless Propagation Visuals**
+**Wireless Propagation (WP)**
 
 ---
 
