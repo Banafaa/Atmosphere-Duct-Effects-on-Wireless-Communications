@@ -34,7 +34,7 @@ introduced in previous posts.
 | ID | Topic | Resources |
 |---|---|---|
 | **WP#001** | Beyond the Horizon: When the Atmosphere Becomes a Waveguide | MATLAB + Animation |
-| **WP#002** | The Physics of Duct Formation: How Weather Creates Radio Waveguides | MATLAB + Data + Visualization |
+| **WP#002** | The Physics of Duct Formation: How Weather Creates Radio Waveguides | MATLAB + Visualization |
 | **WP#003** | Duct Characterization: Strength, Thickness, and Height | Technical Post |
 | **WP#004** | Operating Frequency and Tropospheric Ducting: Why the Same Duct Does Not Affect Every Signal Equally | MATLAB + Visualization |
 | **WP#005** | Same Atmospheric Duct, Different Frequencies: What Actually Happens to the Electromagnetic Field? | MATLAB + PE Animation |
