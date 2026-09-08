@@ -71,7 +71,49 @@ The series explores topics including:
 - AI-driven duct prediction
 - Atmospheric effects on next-generation wireless systems
 ---
+## Reproducibility
 
+Where simulations are provided, the objective is to make the visualization
+and underlying physical concept reproducible.
+
+MATLAB is used as the primary simulation environment, with Python
+implementations provided where applicable.
+
+Simulation assumptions, atmospheric parameters, model configurations, and
+data requirements are documented within the corresponding post folder.
+
+---
+
+## Scientific Basis
+
+The material in this repository is developed from peer-reviewed research,
+established propagation models, ITU-R Recommendations, atmospheric
+measurements, and validated numerical simulations.
+
+A primary reference for the tropospheric ducting series is:
+
+M. Banafaa and A. H. Muqaibel,
+"Tropospheric Ducting: A Comprehensive Review and Machine
+Learning-Based Classification Advancements,"
+IEEE Access, vol. 13, 2025.
+DOI: 10.1109/ACCESS.2025.3537160
+
+Additional references specific to each topic are provided in the
+corresponding post directory.
+
+---
+
+## Purpose
+
+The Wireless Propagation (WP) series aims to make advanced propagation
+phenomena easier to understand without sacrificing their underlying
+physics.
+
+The long-term goal is to build a structured and reproducible technical
+resource covering the progression from atmospheric conditions to radio
+propagation and ultimately to wireless network performance.
+
+---
 ## Author
 
 **Mohammed Banafaa, Ph.D.**  
