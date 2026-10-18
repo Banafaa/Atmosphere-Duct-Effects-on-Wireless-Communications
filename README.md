@@ -44,7 +44,7 @@ introduced in previous posts.
 | **WP#003** | Duct Characterization: Strength, Thickness, and Height | Technical Post |
 | **WP#004** | Operating Frequency and Tropospheric Ducting: Why the Same Duct Does Not Affect Every Signal Equally | MATLAB + Visualization |
 | **WP#005** | Same Atmospheric Duct, Different Frequencies: What Actually Happens to the Electromagnetic Field? | MATLAB + PE Animation |
-
+| **WP#006** |	A Deep Fade Does Not Mean the Duct Vanished: Local Signal Strength vs. Duct Confinement	|MATLAB + PE Visualization + Animation|
 > Additional posts and simulations will be added as the series develops.
 
 ---
